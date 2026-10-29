@@ -1,0 +1,5 @@
+   data/
+   *.csv
+   resultados*/
+   salida_streaming/
+   __pycache__/
